@@ -1,14 +1,14 @@
 package tpgit;
 
-public class Avion {
-	private int altitude=0;
+public class Avion 
+{
+	private Position p=new Position();
 	public int getAltitude()
 	{
-		return altitude;
+		return p.getAltitude();
 	}
 	public void setAltitude(int altitude)
 	{
-		this.altitude=altitude;
+		p.setAltitude(altitude);
 	}
-
 }
