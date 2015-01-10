@@ -3,7 +3,7 @@ package tpgit;
 public class MonProgramme {
 	public static void main(String[]args)
 	{
-		System.out.println("Bom dia!");
+		System.out.println("Sbe7 l5ir!");
 		Avion a1= new Avion();
 		Avion a2= new Avion();
 		a1.setAltitude(1000);
