@@ -14,5 +14,6 @@ public class Avion
 	public Avion()
 	{
 		System.out.println("nouvel avion");
+		System.out.println("New plane");
 	}
 }
